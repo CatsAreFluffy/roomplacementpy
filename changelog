@@ -1,4 +1,6 @@
 0.0.1
- Added an awkward square placement game.
+ Added an awkward square placement game. Click to place.
 0.0.2
  Replaced the square with a bed.
+0.0.3
+ Added window and table, left/right to switch
